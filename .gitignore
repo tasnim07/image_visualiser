@@ -1,0 +1,17 @@
+*.py[cod]
+__pycache__/
+*.sw[po]
+*.log
+*.pid
+*.env
+*.pkl
+*.ipynb
+.ipynb_checkpoints
+.venv
+*.json
+temp/
+backup/
+celerybeat-schedule
+scripts/
+.local_env
+ssl/
