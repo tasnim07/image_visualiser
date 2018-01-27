@@ -1,9 +1,9 @@
 ## Dependencies
 
-DB - postgresql
-.env file having 3 key
-     - DJANGO_SECRET_KEY
-     - GOOGLE_API_KEY
+1. DB - postgresql
+3. .env file having 3 key</br>
+     - DJANGO_SECRET_KEY</br>
+     - GOOGLE_API_KEY</br>
 
 # Setup
 
