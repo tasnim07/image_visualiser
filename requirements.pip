@@ -1,5 +1,5 @@
-django
-djangorestframework
-psycopg2
-requests
-django-environ
+Django==2.0.1
+djangorestframework==3.7.7
+psycopg2==2.7.3.2
+requests==2.18.4
+django-environ==0.4.4
