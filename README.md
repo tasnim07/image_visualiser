@@ -1,7 +1,7 @@
 ## Dependencies
 
 1. DB - postgresql
-3. .env file having 3 key</br>
+2. .env file having 2 key</br>
      - DJANGO_SECRET_KEY</br>
      - GOOGLE_API_KEY</br>
 
