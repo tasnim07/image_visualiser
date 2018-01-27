@@ -24,8 +24,8 @@
 
 
 # Urls
-http://localhost
-API's
+Front end: http://localhost</br>
+API's</br>
 1. /visualise/image/ - list all the image visualised data
 2. /visualise/image/<pk>/ - get one visualised image data
 3. /visualise/image/upload/ - Visualise new image
