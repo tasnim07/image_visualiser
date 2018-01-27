@@ -20,7 +20,7 @@
 2. Copy app-nginx.config from conf.d to nginx config files (mainly in /etc/nginx/sites-enabled/)
 3. sudo nginx -t
 4. sudo systemctl reload nginx
-5. Visit - 'http://localhost/visualiser'
+5. Visit - 'http://localhost'
 
 
 # Urls
